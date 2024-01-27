@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/random-dino/random-dino.jpg
+image: img/random-dino.jpg
 title: "RandomDino"
 date: 2024
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "A responsive Discord app my friends and I coded for a personal project."
 ---
 
-<img class="img-fluid" src="../img/random-dino/random-dino.jpg">
+<img class="img-fluid" src="../img/random-dino.jpg">
 
 RandomDino is a simple text-based bot designed for use within Discord. The idea came about through a game my friends played where one person would pick a random dinosaur and a description of that dinosaur from a list, and everyone else would have to draw it to the best of their ability. My friends and I put together the code from snippets of Javascript we picked apart online or coded ourselves, and tied them all together using an online application-hosting website called [Glitch](https://glitch.com/), a JavaScript application platform.
 
