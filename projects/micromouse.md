@@ -1,39 +1,25 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
-date: 2015
+image: img/personal-computer/pc.jpg
+title: "Custom PC"
+date: 2020
 published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+  - Hardware
+  - Command Line
+  - Windows
+  - Arch
+summary: "My pride and joy, the desktop computer I assembled from scratch."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
+<img class="img-fluid" src="../img/personal-computer/keyboard.jpg">
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+<h2>Rise, my glorious creation!</h2>
+I built this computer in the months right before the pandemic. The masterpiece you see before you is the result of many months' efforts of part-picking, assembly, and boot-menu troubleshooting. I had very specific goals in mind for what I wanted out of the computer, which ended up placing some restrictions on how everything went down, but in the end I'm really happy with how it turned out. For example, the giant Video Card being supported by the plastic bobblehead and painter's tape is incredibly heavy, and the whole thing ended up sagging under its own weight, rendering it unusable without support. I also tried to get secondhand parts for a discount price, which ended up costing me more in the long run due to some hardware malfunctions. After replacing the parts, everything has run smoothly so far. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+<h2>Head in the game</h2>
+In 2020, having a decent PC was awesome, because my friends and I could just stay inside and play games online while socially distancing. My new specs were a huge change from the 2009 macbook I'd been running on until that point, and it meant I could be in *multiple* applications at once without my computer heating up to surface-of-the-sun temperatures on my lap. I think I made a lot of the friends I keep in contact with now just by being chronically online that year, LOL.
 
-Here is some code that illustrates how we read values from the line sensors:
-
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+<h2>Hard work pays off</h2>
+I think the reason I like this computer so much is that it's the first major money/time sink I've put a lot of effort into. Earning enough cash to actually get the parts I'd been eyeing for months felt really good, and I hope I can take that same feeling of motivation and apply it elsewhere in my life. 
