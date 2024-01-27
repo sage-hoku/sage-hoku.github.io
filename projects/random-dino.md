@@ -19,5 +19,5 @@ In this project I gained experience with NodeJS and Javascript, application host
 
 Currently, RandomDino has a few basic commands, with its most prominent being '!dino', which pulls and subsequently deletes (to avoid duplicate responses) a dino and a descriptor from a database.
 RandomDino is an ongoing project, and we hope to eventually implement higher-level Discord integration, such as the use of Discord API's 'Slash Commands', to streamline clientside input.
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+
+Source: <a href="https://github.com/sage-hoku/random-dino">random-dino</a>
