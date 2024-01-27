@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/marching-band/marching-band-wide.jpg
+image: img/marching-band/marching-band-1.jpg
 title: "Marching Band"
 date: 2020-2023
 published: true
