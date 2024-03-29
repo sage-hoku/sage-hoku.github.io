@@ -19,9 +19,9 @@ labels:
 <li>Tristan Yousuf-Leo</li>
 </ol>
 <h2>Overview (including “The problem” and “The solution”)</h2>
-<p>One of the primary challenges faced by college students today is a lack of motivation and ability to adhere to a structured schedule. Many find it challenging to stay organized and focused on their academic responsibilities, often leading to procrastination and subpar performance. We believe this lack of motivation can often stem from the difficulty of finding the right career path to meet a student’s needs and interests. Our web app seeks to simplify this search by offering comprehensive career information, including opportunities from organizations affiliated with UH, and general knowledge about career fields from both an educational and post-educational standpoint. From an educational standpoint, the project will provide information about the courses in an academic specialization, and to connect students to former alumni and/or current teachers. From a post-educational standpoint, the program will give access to contacts that students can reach out to in order to learn more about a field.</p>
+<p>One of the primary challenges faced by college students today is <b>a lack of motivation and ability to adhere to a structured schedule</b>. Many find it challenging to stay organized and focused on their academic responsibilities, often leading to procrastination and subpar performance. We believe this lack of motivation can often stem from the <b>difficulty of finding the right career path to meet a student’s needs and interests</b>. Our web app seeks to simplify this search by offering comprehensive career information, including opportunities from organizations affiliated with UH, and general knowledge about career fields from both an educational and post-educational standpoint. From an educational standpoint, <b>the project provides information about the courses in an academic specialization</b>, and connects students to former alumni and/or current teachers. From a post-educational standpoint, the program will <b>give access to contacts that students can reach out to</b> in order to learn more about a field.</p>
 <h2>Mockup page ideas</h2>
-<ul>
+<ul>   
     <li>Landing Page</li>
     <li>User Home Page</li> 
     <li>Career Search / Filtered Categories Search (Browser Page)</li>
