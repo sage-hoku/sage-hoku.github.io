@@ -22,10 +22,10 @@ labels:
 <p>One of the primary challenges faced by college students today is a lack of motivation and ability to adhere to a structured schedule. Many find it challenging to stay organized and focused on their academic responsibilities, often leading to procrastination and subpar performance. We believe this lack of motivation can often stem from the difficulty of finding the right career path to meet a student’s needs and interests. Our web app seeks to simplify this search by offering comprehensive career information, including opportunities from organizations affiliated with UH, and general knowledge about career fields from both an educational and post-educational standpoint. From an educational standpoint, the project will provide information about the courses in an academic specialization, and to connect students to former alumni and/or current teachers. From a post-educational standpoint, the program will give access to contacts that students can reach out to in order to learn more about a field.</p>
 <h2>Mockup page ideas</h2>
 <ul>
-<li>Landing Page</li>
-<li>User Home Page</li> 
-<li>Career Search / Filtered Categories Search (Browser Page)</li>
-<li>Admin Page</li>
+    <li>Landing Page</li>
+    <li>User Home Page</li> 
+    <li>Career Search / Filtered Categories Search (Browser Page)</li>
+    <li>Admin Page</li>
 </ul>
 <h2>Use case ideas</h2>
 <ul>
@@ -35,12 +35,15 @@ labels:
     <li>Organizations and higher users can edit their info on the Admin Page</li>
 </ul>
 <h2>Beyond the basics</h2>
-	<p><b>Academic Path Search</b> - a second search tab that gives info on the actual courses in a student's academic career path 
-        <ul>
-            <li>Allow alumni and professors to share their experiences in a field</li>
-            <li>Provide inspiration for a career path by presenting former students' projects</li>
-        </ul>
-	<p><b>Custom Notifications</b> - Users can follow organizations to receive pings based on their participation in career fairs, upcoming opportunities, etc.</p>
+<p>
+	<b>Academic Path Search</b> - a second search tab that gives info on the actual courses in a student's academic career path
+</p>
+<ul>
+    <li>Allow alumni and professors to share their experiences in a field</li>
+    <li>Provide inspiration for a career path by presenting former students' projects</li>
+</ul>
+<p>
+	<b>Custom Notifications</b> - Users can follow organizations to receive pings based on their participation in career fairs, upcoming opportunities, etc.
+</p>
 
-<h3>Disclaimer</h3> 
-ChatGPT helped me write the block of text up there.
+<b>Disclaimer:</b> ChatGPT helped me write the block of text up there.
