@@ -2,12 +2,13 @@
 layout: essay
 type: essay
 published: true
-title: "Raise Your Standards: Setting the ground rules with ESLint"
+title: "I totally Wrote This Paper"
 date: 2024-02-08
 labels:
+- Generative AI
 - Javascript
-- IntelliJ
-- ESLint
+- HTML
+
 ---
 ### I. Introduction
 <p>
