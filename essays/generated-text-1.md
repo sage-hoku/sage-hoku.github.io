@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: "I totally Wrote This Paper"
+title: "I Totally Wrote This Paper"
 date: 2024-02-08
 labels:
 - Generative AI
