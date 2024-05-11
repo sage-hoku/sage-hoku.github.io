@@ -5,9 +5,7 @@ published: true
 title: "Validation for a Late Night's Work - Effort Tracking and Estimation as a Tool for Effective Communication"
 date: 2024-02-08
 labels:
-- Javascript
-- IntelliJ
-- ESLint
+
 ---
 <img width="300px" class="float-start pe-3" src="../img/coraline-dad.png" alt="https://imgur.com/yymYlwS">
 <h2>Goals, not deadlines</h2>
@@ -23,4 +21,4 @@ In actuality, though, I think that the proactive lead they'd taken in starting t
 <p>It's also important to remember that issue-based effort tracking presents its utility in the form of a collaborative goal, and not as a comparative standard. Group members must see issue tracking as a tool to further their cooperative efforts, and not as a point of judgement against their peers (especially when the work hasn't been done yet). I struggled with this idea somewhat and often had to resist the urge to modify my working hours after-the-fact to better match my peers'. </p>
 
 <h2>Conclusion</h2>
-Effort Tracking is awesome and you should do it but make sure you do it right or it no work. ok? ok.
+Effort Tracking is awesome and you should do it, but make sure you do it right or it no work. ok? ok.
