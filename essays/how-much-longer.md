@@ -21,4 +21,4 @@ In actuality, though, I think that the proactive lead they'd taken in starting t
 <p>It's also important to remember that issue-based effort tracking presents its utility in the form of a collaborative goal, and not as a comparative standard. Group members must see issue tracking as a tool to further their cooperative efforts, and not as a point of judgement against their peers (especially when the work hasn't been done yet). I struggled with this idea somewhat and often had to resist the urge to modify my working hours after-the-fact to better match my peers'. </p>
 
 <h2>Conclusion</h2>
-Effort Tracking is awesome and you should do it, but make sure you do it right or it no work. ok? ok.
+Effort Tracking is a great way to boost cohesion between a group's members when working towards a collective goal. Being able to see peers' contributions can be helpful and motivating, so long as it isn't seen as an obstacle. I'd recommend using effort tracking when a team is confident in their goal-setting abilities. 
