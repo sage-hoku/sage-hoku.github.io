@@ -14,10 +14,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Update Bundler and RubyGems
-      run: |  
-        gem update --system
-        gem install bundler
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
