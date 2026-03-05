@@ -14,11 +14,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Clean bundler cache
-      run: |
-        gem uninstall bundler
-        gem install bundler
-        bundle clean --force
     - name: Update Bundler and RubyGems
       run: |  
         gem update --system
