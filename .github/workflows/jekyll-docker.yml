@@ -14,7 +14,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
+    - name: Clean bundler cache
+      run: |
+        gem uninstall bundler
+        gem install bundler
+        bundle clean --force
+    - name: Update Bundler and RubyGems
+      run: |  
+        gem update --system
+        gem install bundler
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
