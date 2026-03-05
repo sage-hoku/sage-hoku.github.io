@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@iframe-resizer/react": "^5.5.9"
+  }
+}
